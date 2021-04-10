@@ -19,5 +19,5 @@ python domain.txt 1
 ```
 Syntax:  Python Domain.txt start_of_domain end_of_domain
 ```
-python domain.txt 1 5
-```
+### TO open the domain range ```https://site.com``` to ```https://developers.site.com``` Provide the Starting and ending line of Domain 
+

@@ -10,7 +10,7 @@ Opendomain is the Security Tool intended to open selected domains from files int
 
 # To open individual domain
 *Syntax: python domain.txt <line_number_of_domain>*
-### TO open ```https://site.com ``` from the above File provide its corresponding line Number
+### TO open ```https://site.com ``` from the above [File](https://github.com/Roshan-Poudel/opendomain/blob/main/README.md#sample-file-with-list-of-domain) provide its corresponding line Number
 ```
 python domain.txt 1
 ```

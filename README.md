@@ -7,7 +7,7 @@ Opendomain is the Python Script intended to open selected domains from large dom
 [2. Opening multiple domains from file within the range](https://github.com/Roshan-Poudel/opendomain#to-open-multiple-domains-at-once)
 
 # Requirement
-The name of the file which contains list of domains should be domains.txt and domains inside the file should be serially arranged
+The name of the file which contains list of domains should be **domains.txt** and domains inside the file should be serially arranged
 
 # Installation
 Clone the Repo 

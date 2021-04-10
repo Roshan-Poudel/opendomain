@@ -10,7 +10,7 @@ Opening Selected specific domains via line Number from a large file with domains
 ```
 python domain.txt 1
 ```
-# The domain opens in Firefox
+## The domain opens in Firefox
 <img src="https://github.com/Roshan-Poudel/images/blob/master/opening.png">
 
 # To Open Multiple Domains at Once
@@ -23,4 +23,4 @@ Syntax:  Python Domain.txt start_of_domain end_of_domain
 ```
 python domain.txt 1 4
 ```
-### Output: All the domains between line number 1 and 4 opens in Firefox
+## Output: All the domains between line number 1 and 4 opens in Firefox

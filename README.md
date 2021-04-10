@@ -11,8 +11,9 @@ Opening Selected specific domains via line Number from a large file with domains
 python domain.txt 1
 ```
 # The domain opens in Firefox
-<img src="https://github.com/Roshan-Poudel/images/blob/master/opening.png">  
-### To Open Multiple Domains at Once
+<img src="https://github.com/Roshan-Poudel/images/blob/master/opening.png">
+
+# To Open Multiple Domains at Once
 *Syntax: python domain.txt <line_number_of_domain>*
 
 

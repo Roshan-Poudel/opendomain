@@ -10,7 +10,11 @@ Opening Selected specific domains via line Number from a large file with domains
 ## To open individual domain
 python domain.txt <line_number_of_domain>
 ## TO open https://site.com from the file provide its corresponding line Number
+
+```
 python domain.txt 1
+
+```
 
 
 <img src="https://github.com/Roshan-Poudel/images/blob/master/opening.png">  

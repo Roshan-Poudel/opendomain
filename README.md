@@ -28,3 +28,4 @@ python domain.txt start_of_domain end_of_domain
 python domain.txt 1 4
 ```
 ##  Output: All the domains between line number 1 and 4 opens in Firefox
+ 

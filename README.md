@@ -6,6 +6,7 @@ Opendomain is the Python Script intended to open selected domains from files int
 [2. Opening multiple domains from file within the range](https://github.com/Roshan-Poudel/opendomain#to-open-multiple-domains-at-once)
 
 # Sample File with list of domain
+A sample list of domains:
 <img src="https://github.com/Roshan-Poudel/images/blob/master/subdomain.jpg">  
 
 # To open individual domain

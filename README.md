@@ -19,5 +19,8 @@ python domain.txt 1
 ```
 Syntax:  Python Domain.txt start_of_domain end_of_domain
 ```
-### TO open the domain range ```https://site.com``` to ```https://developers.site.com``` Provide the Starting and ending line of Domain 
-
+### TO open the domain range ```https://site.com``` to ```https://developers.site.com``` provide the Initiating and Ending Line of Domain 
+```
+python domain.txt 1 4
+```
+### Output: All the domains between line number 1 and 4 opens in Firefox

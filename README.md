@@ -1,5 +1,5 @@
 # Opendomain
-Opening Selected specific domains via line Number from a large file with domains into your favorite browser. 
+Opening Selected specific domains via line Number from a large file with domains into your favorite browser. During Performing a Information Gathering during Security Assessment, we usually discovered and enumerate large quantity of Sub-domain and Adjust/Sort them into the File. While Opening this domains from file it is a Tedious/Consuming to copying these domain from file and pasting them in the Browser. Hence, some degree of Automation can assist us to open this domains (selected by user) from file and open into the Browser. Opendomain exactly performs this function. Currently,  
 
 # Sample File with list of domain
 <img src="https://github.com/Roshan-Poudel/images/blob/master/subdomain.jpg">  

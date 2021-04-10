@@ -14,7 +14,6 @@ git clone https://github.com/Roshan-Poudel/opendomain
 
 ```
 cd opendomain/
-
 ```
 
 # Sample File with list of domain

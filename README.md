@@ -15,8 +15,10 @@ python domain.txt <line_number_of_domain>
 <img src="https://github.com/Roshan-Poudel/images/blob/master/opening.png">  
 
 
-### To open Multiple Domains at Once
+### To Open Multiple Domains at Once
 ```
-python domain.txt start_of_domain end_of_domain
+Syntax:  Python Domain.txt start_of_domain end_of_domain
+
+```
 python domain.txt 1 5
 ```

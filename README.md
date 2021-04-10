@@ -9,7 +9,7 @@ Opendomain is the Python Script intended to open selected domains from large dom
 # Installation
 Clone the Repo 
 ```
-git clone
+git clone https://github.com/Roshan-Poudel/opendomain
 ```
 
 # Sample File with list of domain

@@ -20,9 +20,6 @@ python domain.txt 1
 # To open Multiple Domains at Once
 *Syntax: python domain.txt <line_number_of_domain>*
 
-```
-python domain.txt start_of_domain end_of_domain
-```
 ### To open the domain range ```https://site.com``` to ```https://developers.site.com``` provide the Initiating and Ending Line of Domain 
 ```
 python domain.txt 1 4

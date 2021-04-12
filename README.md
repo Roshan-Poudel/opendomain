@@ -25,20 +25,20 @@ Lets assume following as sample list of domains:
 <img src="https://github.com/Roshan-Poudel/images/blob/master/subdomain.jpg">  
 
 # To open individual domain
-*Syntax: python opendomain.py path_to_domain.txt <line_number_of_domain>*
+``` Syntax: python opendomain.py path_to_domain.txt <line_number_of_domain> ```
 ### TO open domain ```https://site.com ``` from the above [File](https://github.com/Roshan-Poudel/opendomain/blob/main/README.md#sample-file-with-list-of-domain) into Browser provide its corresponding line Number as Argument
 ```
-python domain.txt 1
+python opendomain.py domain.txt 1
 ```
 ## The domain opens in Firefox
 <img src="https://github.com/Roshan-Poudel/images/blob/master/opening.png">
 
 # To open Multiple Domains at Once
-*Syntax: python opendomain.py path_to_domain.txt  <line_number_of_domain>*
+```Syntax: python opendomain.py path_to_domain.txt  <line_number_of_domain>```
 
 ### To open the domain range ```https://site.com``` to ```https://developers.site.com``` provide the Initiating and Ending Line of Domain 
 ```
-python domain.txt 1 4
+python opendomain.py domain.txt 1 4
 ```
 ##  Output: All the domains between line number 1 and 4 opens in Firefox
  

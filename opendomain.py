@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import webbrowser
-import argparse
 import sys
 import os
 import itertools
